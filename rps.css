@@ -1,0 +1,29 @@
+.body{
+    color:cornsilk;
+    background-color:black;
+}
+.score{
+    color:cornsilk;
+    background-color:blue;
+    padding:10px
+}
+
+.rps button{
+    background-color:aqua;
+    padding: 10px;
+    border-radius: 10px;
+    margin: 20px;
+}
+.rps button:hover{
+    background-color:rgb(171, 233, 233);
+}
+.result{
+    color:gold;
+    background-color:darkgreen;
+    padding: 20px;
+}
+.whatchoice{
+    color:hotpink;
+    align-items:center;
+    justify-content:space-between;
+}
